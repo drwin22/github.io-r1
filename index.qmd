@@ -1,0 +1,30 @@
+---
+title: "My Personnal Bio"
+about:
+  id: me
+  template: trestles
+  image: img/profile.png
+  image-shape: round
+  image-width: 15em
+---
+
+
+:::{#me}
+
+## Vision
+
+## Philosophy
+
+## Education
+
+## Experience
+
+:::
+Francois has taught at Saint Paul Technical College for over 40 years, teaching Math, and Emerging Technology. He is a strong advocate for technology equity. Francois is also a prominent leader in the Asian community of Minnesota, and has served as an Asian leader in both non-profit and governmental agencies related to educational policy. He received the Lieutenant Governor’s Award for Community Service. He received the Pioneer Partner Leadership Award for Innovator in Educational Technology from The Great Lakes Governors Council. And was selected as a finalist for Leaders in Learning, Cable Industry Leadership Award. 
+
+Francois received his B.A. from University of St. Thomas, M.Ed. from University of La Verne and completed graduate math courses from Converse College. He received a certificate in Preparing Administrative Responsibility from the University of Minnesota. He also participated in the Leadership for the Common Good program at the Hubert Humphrey Institute for Public Affairs.   Francois received his Doctor of Education in Leadership and Technology from Saint Mary’s University of Minnesota.
+
+Currently, Francois is a member for Minneota state for Academic Equity cCouncil.  Minnesota Online (http://www.minnesotaonline.org/) a place to promote high quality online learning for all students. Francois was born and raised in Vietnam. He came to the United States in 1975 and keeps strong ties with his native country and is very active in the Asian Communities. He is very proud of his family. He has a loving wife and four children. Francois is a very strong advocate for supporting diversity in Higher Education. He loves teaching and using technology in classroom and goes extra miles to help students to succeed so they can contribute to society.
+
+
+Thanks for checking out my website. Happy Learning!
